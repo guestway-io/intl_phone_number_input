@@ -1,6 +1,5 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:intl_phone_number_input/intl_phone_number_input.dart';
-import 'package:intl_phone_number_input/src/models/country_model.dart';
 
 /// Example demonstrating different styling and customization options
 void main() => runApp(StylingExampleApp());
